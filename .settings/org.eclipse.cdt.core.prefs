@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.exe.debug.419126147/LD_LIBRARY_PATH/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.exe.debug.419126147/LD_LIBRARY_PATH/operation=append
+environment/project/cdt.managedbuild.config.gnu.exe.debug.419126147/LD_LIBRARY_PATH/value=/programs/geant4.9.6/geant4.9.6-install/lib\:/programs/geant4.9.6/geant4.9.6-install/lib\:/programs/root/lib\:
+environment/project/cdt.managedbuild.config.gnu.exe.debug.419126147/PATH/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.exe.debug.419126147/PATH/operation=append
+environment/project/cdt.managedbuild.config.gnu.exe.debug.419126147/PATH/value=/programs/emmageant/bin/Linux-g++\:/programs/geant4.9.6/geant4.9.6-install/bin\:/programs/root/bin\:/usr/local/sbin\:/usr/local/bin\:/usr/sbin\:/usr/bin\:/sbin\:/bin\:/usr/games\:/usr/local/games
+environment/project/cdt.managedbuild.config.gnu.exe.debug.419126147/append=true
+environment/project/cdt.managedbuild.config.gnu.exe.debug.419126147/appendContributed=true
+environment/project/cdt.managedbuild.config.gnu.exe.release.428130152/PATH/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.exe.release.428130152/PATH/operation=append
+environment/project/cdt.managedbuild.config.gnu.exe.release.428130152/PATH/value=/programs/emmageant/bin/Linux-g++\:/programs/geant4.9.6/geant4.9.6-install/bin\:/programs/root/bin\:/usr/local/sbin\:/usr/local/bin\:/usr/sbin\:/usr/bin\:/sbin\:/bin\:/usr/games\:/usr/local/games
+environment/project/cdt.managedbuild.config.gnu.exe.release.428130152/append=true
+environment/project/cdt.managedbuild.config.gnu.exe.release.428130152/appendContributed=true
